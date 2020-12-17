@@ -1,0 +1,1 @@
+A folder to store lookup tables for Rubik's cube dimension reduction.
